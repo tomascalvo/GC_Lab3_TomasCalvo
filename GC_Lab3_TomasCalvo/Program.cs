@@ -33,7 +33,8 @@ namespace GC_Lab3_TomasCalvo
                     {
                         validation = true;
                     }
-                    else {
+                    else
+                    {
                         validation = false;
                         Console.WriteLine($"Invalid entry. {validationMessage}");
                         userInput = Console.ReadLine();
@@ -42,25 +43,28 @@ namespace GC_Lab3_TomasCalvo
                 }
 
                 //PROCESS INPUT
-                bool isOdd = parsedInput % 2 == 1;
-                bool range2to25 = parsedInput >= 2 && parsedInput <= 25;
-                bool range26to60 = parsedInput >= 26 && parsedInput <= 60;
-                bool rangeOver60 = parsedInput > 60;
+                bool parity = parsedInput % 2 == 0;
+                bool lowRange = parsedInput >= 2 && parsedInput <= 25;
+                bool mediumRange = parsedInput >= 26 && parsedInput <= 60;
+                bool highRange = parsedInput > 60;
 
-                //PRINT RESULTS
-                if (isOdd)
+                //OUTPUT RESULTS
+                if (!parity)
                 {
                     Console.WriteLine($"{parsedInput} Odd.");
-                } else if (!isOdd && range2to25)
+                }
+                else if (parity && lowRange)
                 {
                     Console.WriteLine("Even and less than 25.");
-                } else if (!isOdd && range26to60) {
+                }
+                else if (parity && mediumRange) {
                     Console.WriteLine("Even.");
                 }
-                else if (!isOdd && rangeOver60)
+                else if (parity && highRange)
                 {
                     Console.WriteLine($"{parsedInput} Even.");
-                } else
+                }
+                else
                 {
                     Console.WriteLine($"Invalid input. {validationMessage}");
                 }
