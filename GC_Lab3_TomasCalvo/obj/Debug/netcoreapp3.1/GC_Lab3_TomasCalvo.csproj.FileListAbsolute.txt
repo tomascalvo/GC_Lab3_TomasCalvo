@@ -1,0 +1,11 @@
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/obj/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.csprojAssemblyReference.cache
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/obj/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.AssemblyInfoInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/obj/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.AssemblyInfo.cs
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.deps.json
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.runtimeconfig.json
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.runtimeconfig.dev.json
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.dll
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/bin/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.pdb
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/obj/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.dll
+/Users/tomasroderickcalvo/Projects/GC_Lab3_TomasCalvo/GC_Lab3_TomasCalvo/obj/Debug/netcoreapp3.1/GC_Lab3_TomasCalvo.pdb
